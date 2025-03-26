@@ -1,10 +1,10 @@
-Hi there! 👋
+# Hi there! 👋
 
-About Me
+## About Me
 
 I work for Shell and am currently focused on upskilling myself in data analysis. My goal is to refine my expertise in extracting insights, optimizing workflows, and leveraging data-driven solutions.
 
-Technical Skills & Focus Areas
+### Technical Skills & Focus Areas
 
 Data Visualization: Power BI, Python
 
@@ -16,8 +16,7 @@ Business Intelligence: Creating interactive dashboards and reports for decision-
 
 Problem-Solving: Debugging complex data issues and optimizing workflows
 
-Current Learning & Development
-
+### Current Learning & Development
 
 Python for Data Science: Expanding knowledge in Python data science.
 
